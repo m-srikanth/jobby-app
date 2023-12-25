@@ -1,0 +1,74 @@
+.div31 {
+  background-color: black;
+  color: white;
+}
+.div32 {
+  padding: 60px;
+}
+.div33 {
+  background-color: #475569;
+  padding: 40px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.skilUl {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+.skilLi {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  font-size: 23px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+.skImg {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+.div34 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lifeLi {
+  list-style-type: none;
+  background-color: #475569;
+  width: 30%;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+}
+.div92 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.div93 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50px;
+}
+.skEd {
+  font-size: 25px;
+  margin-top: 25px;
+}
+.paWid {
+  width: 600px;
+}
+.headEd {
+  font-size: 28px;
+  margin-bottom: 0;
+}
+.edUl {
+  display: flex;
+  padding-left: 0;
+}
+.desEd {
+  font-size: 25px;
+}

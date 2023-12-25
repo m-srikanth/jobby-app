@@ -1,0 +1,78 @@
+.jobsContainer {
+  background-color: #000000;
+  font-family: 'Roboto';
+  width: 100vw;
+  color: white;
+}
+.div11 {
+  width: 25%;
+  padding: 10px;
+}
+.typeHead {
+  font-size: 20px;
+}
+.liStyle {
+  list-style-type: none;
+}
+.div12 {
+  display: flex;
+  padding: 30px;
+}
+.div13 {
+  width: 75%;
+  padding: 50px;
+  padding-top: 0;
+}
+.searchBut {
+  background-color: #475569;
+  color: white;
+  border-width: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+}
+.loadEd {
+  height: 80vh;
+  width: 70vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div14 {
+  border: 2px solid #64748b;
+  margin-left: 40px;
+  width: 400px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  height: 30px;
+}
+.marIn {
+  padding-left: 30px;
+  background-color: transparent;
+  border: none;
+  font-size: 15px;
+  color: white;
+  height: 30px;
+  width: 340px;
+}
+.ulEd {
+  overflow-y: auto;
+  height: 80vh;
+}
+.typMr {
+  padding-left: 0;
+}
+.failDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failImg {
+  margin: 50px;
+  height: 300px;
+  width: 400px;
+}

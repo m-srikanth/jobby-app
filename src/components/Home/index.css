@@ -1,0 +1,20 @@
+.homeContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  color: white;
+  font-family: 'Roboto';
+  margin: 0;
+}
+.divHome {
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 500px;
+}
+.homeHead {
+  font-size: 60px;
+}
+.homePara {
+  font-size: 26px;
+}

@@ -1,0 +1,40 @@
+.navStyle {
+  background-color: #2c364c;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  color: white;
+  margin: 0;
+}
+.webLogo {
+  height: 40px;
+  width: 130px;
+  margin-left: 30px;
+}
+.navDiv {
+  display: flex;
+  width: 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+.logoutBut {
+  padding: 8px;
+  border-width: 0;
+  border-radius: 5px;
+  color: white;
+  background-color: #4f46e5;
+  width: 80px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px;
+}
+p {
+  outline: none;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}

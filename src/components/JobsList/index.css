@@ -1,0 +1,45 @@
+.jobLi {
+  list-style-type: none;
+  background-color: #475569;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.div21 {
+  display: flex;
+  align-items: center;
+}
+.compImg {
+  height: 70px;
+  width: 70px;
+  margin-right: 20px;
+}
+.ratEd {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+.marP {
+  margin-bottom: 0;
+}
+.icEd {
+  color: #fbbf24;
+  margin-right: 5px;
+}
+.icEd1 {
+  color: white;
+  margin-right: 5px;
+}
+.div91 {
+  display: flex;
+}
+.div90 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0;
+}
+.desEd {
+  font-size: 20px;
+}
