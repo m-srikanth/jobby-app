@@ -55,6 +55,10 @@ class Login extends Component {
 
     return (
       <div className="div1">
+        <p className="userEdit">
+          <span className="userEdit1">username:</span> rahul
+          <span className="userEdit1"> password:</span> rahul@2021
+        </p>
         <div className="div2">
           <img
             src="https://assets.ccbp.in/frontend/react-js/logo-img.png"
